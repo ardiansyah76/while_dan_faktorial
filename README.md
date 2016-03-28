@@ -1,0 +1,2 @@
+# while_dan_faktorial
+while_dan_faktorial
